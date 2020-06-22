@@ -9,7 +9,7 @@ from sklearn.metrics import make_scorer, accuracy_score # for accuracy
 from sklearn.model_selection import train_test_split # for splitting the train-test data
 from sklearn.ensemble import RandomForestClassifier # random forest model
 from sklearn import preprocessing # EDA
-import seaborn as sns # visualization
+
 import pandas as pd # EDA
 import numpy as np # EDA
 import sklearn # machine learning
